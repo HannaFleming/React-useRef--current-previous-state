@@ -1,5 +1,7 @@
 useEffect & useRef
 
-![1](https://github.com/HannaFleming/useRef--current-previous-state/assets/124400864/f4238ab4-cd2d-4faa-8443-2194ee7464af)
 
-![2](https://github.com/HannaFleming/useRef--current-previous-state/assets/124400864/bd69f82c-a32b-444d-958d-e3681895f5d3)
+![1](https://github.com/HannaFleming/useRef--current-previous-state/assets/124400864/1c2a70e9-8dd8-494d-8766-766207b775c3)
+
+
+![2](https://github.com/HannaFleming/useRef--current-previous-state/assets/124400864/7104567a-18d4-4212-a895-69db35eb7b06)
